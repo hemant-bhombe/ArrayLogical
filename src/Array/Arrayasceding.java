@@ -18,6 +18,7 @@ public class Arrayasceding {
 		}
 		System.out.println(arr[i]);
 		}
+		//op will be in ascending order
 		
 	}
 }
